@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Metronic"
+    }
+  },
+  "defaultProject": "Metronic",
+  "cli": {
+    "analytics": false
+  }
 }
